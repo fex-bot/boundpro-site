@@ -1,0 +1,368 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="BoundPro electronic Form 4473 in progress with QR code for buyer signing" fill="none" font-family="Inter, system-ui, sans-serif">
+  <title>BoundPro electronic Form 4473</title>
+  <defs>
+    <filter id="cardShadow3" x="-2%" y="-5%" width="104%" height="115%">
+      <feDropShadow dx="0" dy="1" stdDeviation="2" flood-color="#0f172a" flood-opacity="0.06"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="800" fill="#f8fafc"/>
+
+  <!-- Sidebar -->
+  <rect x="0" y="0" width="216" height="800" fill="#0f1d33"/>
+  <g transform="translate(20,20)">
+    <rect width="22" height="24" rx="3" fill="#18283f"/>
+    <rect width="3" height="24" fill="#d97706"/>
+    <rect x="7" y="6" width="11" height="1.4" rx="0.7" fill="#94a3b8"/>
+    <rect x="7" y="10" width="8" height="1.4" rx="0.7" fill="#94a3b8"/>
+    <rect x="7" y="14" width="11" height="1.4" rx="0.7" fill="#94a3b8"/>
+    <text x="32" y="18" fill="#ffffff" font-size="15" font-weight="700">BoundPro</text>
+  </g>
+  <g transform="translate(16,64)">
+    <rect width="184" height="44" rx="8" fill="#ffffff" fill-opacity="0.06"/>
+    <rect x="10" y="10" width="24" height="24" rx="6" fill="#d97706"/>
+    <text x="22" y="26" text-anchor="middle" fill="#ffffff" font-size="10" font-weight="700">RA</text>
+    <text x="40" y="20" fill="#ffffff" font-size="12" font-weight="600">Ridgeline Arms</text>
+    <text x="40" y="34" fill="#94a3b8" font-size="10">3 FFLs · SOT Class III</text>
+  </g>
+  <text x="24" y="132" fill="#64748b" font-size="10" font-weight="700" letter-spacing="0.08em">WORKSPACE</text>
+  <g font-size="13">
+    <g transform="translate(8,148)">
+      <path d="M22 22 l8 -7 8 7 v8 a1 1 0 0 1 -1 1 h-14 a1 1 0 0 1 -1 -1 z" stroke="#94a3b8" stroke-width="1.5" stroke-linejoin="round"/>
+      <text x="46" y="22" fill="#cbd5e1">Dashboard</text>
+    </g>
+    <g transform="translate(8,186)">
+      <path d="M22 16 h12 a1 1 0 0 1 1 1 v12 a1 1 0 0 1 -1 1 h-12 a1 1 0 0 1 -1 -1 v-12 a1 1 0 0 1 1 -1 z M25 20 h7 M25 23 h7 M25 26 h5" stroke="#94a3b8" stroke-width="1.4" stroke-linecap="round"/>
+      <text x="46" y="22" fill="#cbd5e1">A&amp;D Ledger</text>
+    </g>
+    <!-- 4473s ACTIVE -->
+    <g transform="translate(8,220)">
+      <rect width="200" height="34" rx="8" fill="#ffffff" fill-opacity="0.09"/>
+      <rect width="3" height="34" rx="1.5" fill="#d97706"/>
+      <path d="M22 16 h10 l3 3 v11 a1 1 0 0 1 -1 1 h-12 a1 1 0 0 1 -1 -1 v-13 a1 1 0 0 1 1 -1 z M25 22 h7 M25 25 h7 M25 28 h5" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round"/>
+      <text x="46" y="22" fill="#ffffff" font-weight="600">Form 4473s</text>
+      <rect x="160" y="11" width="32" height="18" rx="6" fill="#d97706"/>
+      <text x="176" y="23.5" fill="#ffffff" font-size="10.5" font-weight="700" text-anchor="middle">3 NEW</text>
+    </g>
+    <g transform="translate(8,254)">
+      <path d="M22 19 h13 m-3 -3 l3 3 -3 3 M35 27 h-13 m3 -3 l-3 3 3 3" stroke="#94a3b8" stroke-width="1.4" stroke-linecap="round"/>
+      <text x="46" y="22" fill="#cbd5e1">Transfers</text>
+    </g>
+    <g transform="translate(8,288)">
+      <path d="M28 14 l8 4 v6 c0 4 -3 7 -8 8 -5 -1 -8 -4 -8 -8 v-6 z" stroke="#94a3b8" stroke-width="1.4" stroke-linejoin="round"/>
+      <text x="46" y="22" fill="#cbd5e1">NFA Registry</text>
+    </g>
+    <g transform="translate(8,322)">
+      <path d="M22 22 a6 6 0 1 0 12 0 a6 6 0 1 0 -12 0 M28 18 v8 M25 21 h6" stroke="#94a3b8" stroke-width="1.4"/>
+      <text x="46" y="22" fill="#cbd5e1">Pawn</text>
+    </g>
+    <g transform="translate(8,356)">
+      <path d="M28 14 l8 3 v7 c0 5 -4 8 -8 9 -4 -1 -8 -4 -8 -9 v-7 z M25 22 l3 3 5 -6" stroke="#94a3b8" stroke-width="1.4" stroke-linejoin="round"/>
+      <text x="46" y="22" fill="#cbd5e1">Compliance</text>
+      <circle cx="180" cy="20" r="4" fill="#e11d48"/>
+      <text x="180" y="23" fill="#ffffff" font-size="9" font-weight="700" text-anchor="middle">1</text>
+    </g>
+    <g transform="translate(8,390)">
+      <path d="M22 28 v-6 M27 28 v-10 M32 28 v-7 M37 28 v-12" stroke="#94a3b8" stroke-width="1.6" stroke-linecap="round"/>
+      <text x="46" y="22" fill="#cbd5e1">Reports</text>
+    </g>
+    <g transform="translate(8,424)">
+      <path d="M22 18 h14 M22 22 h14 M22 26 h10" stroke="#94a3b8" stroke-width="1.4" stroke-linecap="round"/>
+      <text x="46" y="22" fill="#cbd5e1">Audit Log</text>
+    </g>
+  </g>
+
+  <!-- Top bar -->
+  <rect x="216" y="0" width="984" height="56" fill="#ffffff"/>
+  <line x1="216" y1="56" x2="1200" y2="56" stroke="#e2e8f0"/>
+  <text x="248" y="26" fill="#0f172a" font-size="14" font-weight="600">Form 4473  #BPSE-00424</text>
+  <text x="248" y="42" fill="#64748b" font-size="11.5">Buyer: Marcus Reyes · Started 11:42 AM today</text>
+
+  <g transform="translate(940,14)">
+    <rect width="36" height="32" rx="8" fill="#f1f5f9"/>
+    <path d="M14 26 a4 4 0 0 0 8 0 M18 14 v9" stroke="#475569" stroke-width="1.4" stroke-linecap="round" fill="none"/>
+  </g>
+  <g transform="translate(984,14)">
+    <rect width="158" height="32" rx="8" fill="#0a1628"/>
+    <path d="M14 20 l4 4 8 -8" stroke="#ffffff" stroke-width="1.6" stroke-linecap="round"/>
+    <text x="34" y="20" fill="#ffffff" font-size="12" font-weight="600">Submit to NICS</text>
+  </g>
+
+  <!-- Main content -->
+  <g transform="translate(248,80)">
+
+    <!-- Header -->
+    <text x="0" y="22" fill="#0f172a" font-size="22" font-weight="700" letter-spacing="-0.02em">Section A  Buyer Information</text>
+    <text x="0" y="44" fill="#64748b" font-size="13">All fields completed · Buyer signature pending · Spanish version available</text>
+
+    <!-- Step indicator -->
+    <g transform="translate(0,68)">
+      <line x1="20" y1="14" x2="892" y2="14" stroke="#e2e8f0" stroke-width="2"/>
+      <line x1="20" y1="14" x2="650" y2="14" stroke="#d97706" stroke-width="2"/>
+
+      <!-- Step 1 done -->
+      <circle cx="20" cy="14" r="12" fill="#d97706"/>
+      <path d="M14 14 l4 4 8 -8" transform="translate(0,0)" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" fill="none"/>
+      <text x="20" y="48" text-anchor="middle" fill="#0f172a" font-size="11" font-weight="600">Firearm</text>
+
+      <!-- Step 2 done -->
+      <circle cx="230" cy="14" r="12" fill="#d97706"/>
+      <path d="M224 14 l4 4 8 -8" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" fill="none"/>
+      <text x="230" y="48" text-anchor="middle" fill="#0f172a" font-size="11" font-weight="600">Buyer info</text>
+
+      <!-- Step 3 done -->
+      <circle cx="440" cy="14" r="12" fill="#d97706"/>
+      <path d="M434 14 l4 4 8 -8" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" fill="none"/>
+      <text x="440" y="48" text-anchor="middle" fill="#0f172a" font-size="11" font-weight="600">Section B</text>
+
+      <!-- Step 4 active -->
+      <circle cx="650" cy="14" r="12" fill="#0a1628"/>
+      <text x="650" y="18" text-anchor="middle" fill="#ffffff" font-size="11" font-weight="700">4</text>
+      <text x="650" y="48" text-anchor="middle" fill="#0f172a" font-size="11" font-weight="600">Buyer signature</text>
+
+      <!-- Step 5 -->
+      <circle cx="892" cy="14" r="12" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+      <text x="892" y="18" text-anchor="middle" fill="#94a3b8" font-size="11" font-weight="700">5</text>
+      <text x="892" y="48" text-anchor="middle" fill="#94a3b8" font-size="11">NICS</text>
+    </g>
+
+    <!-- LEFT: Form details -->
+    <g transform="translate(0,144)">
+      <rect width="540" height="490" rx="10" fill="#ffffff" stroke="#e2e8f0" filter="url(#cardShadow3)"/>
+
+      <!-- Card header -->
+      <text x="20" y="32" fill="#0f172a" font-size="13" font-weight="600">Buyer details</text>
+      <g transform="translate(440,16)">
+        <rect width="86" height="22" rx="6" fill="#ecfdf5"/>
+        <path d="M14 12 l3 3 5 -6" stroke="#047857" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+        <text x="48" y="15.5" text-anchor="middle" fill="#047857" font-size="10.5" font-weight="600">Verified</text>
+      </g>
+      <line x1="0" y1="48" x2="540" y2="48" stroke="#f1f5f9"/>
+
+      <!-- Form fields -->
+      <g transform="translate(20,68)">
+        <!-- name field -->
+        <text x="0" y="0" fill="#475569" font-size="11" font-weight="600">FULL NAME</text>
+        <rect y="10" width="500" height="36" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+        <text x="14" y="34" fill="#0f172a" font-size="13" font-weight="500">Marcus J. Reyes</text>
+
+        <!-- DOB / SSN row -->
+        <g transform="translate(0,68)">
+          <text x="0" y="0" fill="#475569" font-size="11" font-weight="600">DATE OF BIRTH</text>
+          <rect y="10" width="240" height="36" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+          <text x="14" y="34" fill="#0f172a" font-size="13" font-family="JetBrains Mono, monospace">04/14/1987</text>
+
+          <text x="260" y="0" fill="#475569" font-size="11" font-weight="600">SSN (OPTIONAL)</text>
+          <rect x="260" y="10" width="240" height="36" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+          <text x="274" y="34" fill="#0f172a" font-size="13" font-family="JetBrains Mono, monospace">●●●-●●-1849</text>
+        </g>
+
+        <!-- ID -->
+        <g transform="translate(0,136)">
+          <text x="0" y="0" fill="#475569" font-size="11" font-weight="600">PHOTO ID</text>
+          <rect y="10" width="500" height="36" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+          <text x="14" y="34" fill="#0f172a" font-size="13">CO Driver License · 11-247-3982 · exp 02/2029</text>
+        </g>
+
+        <!-- Address -->
+        <g transform="translate(0,204)">
+          <text x="0" y="0" fill="#475569" font-size="11" font-weight="600">RESIDENCE ADDRESS</text>
+          <rect y="10" width="500" height="36" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+          <text x="14" y="34" fill="#0f172a" font-size="13">428 Greenbriar Ln, Lakewood, CO 80226</text>
+        </g>
+
+        <!-- Question 21 (citizenship) -->
+        <g transform="translate(0,272)">
+          <text x="0" y="0" fill="#475569" font-size="11" font-weight="600">21. ARE YOU A U.S. CITIZEN?</text>
+
+          <g transform="translate(0,12)">
+            <rect width="78" height="32" rx="6" fill="#0a1628"/>
+            <text x="39" y="20" text-anchor="middle" fill="#ffffff" font-size="12" font-weight="600"> Yes</text>
+          </g>
+          <g transform="translate(86,12)">
+            <rect width="78" height="32" rx="6" fill="#ffffff" stroke="#cbd5e1"/>
+            <text x="39" y="20" text-anchor="middle" fill="#475569" font-size="12">No</text>
+          </g>
+
+          <text x="180" y="32" fill="#94a3b8" font-size="11">22a. Country of citizenship: <tspan fill="#0f172a" font-weight="500">United States</tspan></text>
+        </g>
+      </g>
+
+      <!-- 3310.4 alert at bottom -->
+      <g transform="translate(20,418)">
+        <rect width="500" height="48" rx="8" fill="#fff1f2" stroke="#fecaca"/>
+        <path d="M28 32 l-12 -20 -12 20 z M16 22 v6 M16 30 v0.1" transform="translate(8,4)" stroke="#be123c" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+        <text x="44" y="20" fill="#7f1d1d" font-size="12" font-weight="600">Multiple-handgun sale detected</text>
+        <text x="44" y="36" fill="#9f1239" font-size="11">Form 3310.4 will auto-generate after NICS proceed (2nd handgun in 5 bus. days).</text>
+      </g>
+    </g>
+
+    <!-- RIGHT: QR code panel -->
+    <g transform="translate(560,144)">
+      <rect width="352" height="490" rx="10" fill="#ffffff" stroke="#e2e8f0" filter="url(#cardShadow3)"/>
+
+      <text x="20" y="32" fill="#0f172a" font-size="13" font-weight="600">Buyer signature</text>
+      <line x1="0" y1="48" x2="352" y2="48" stroke="#f1f5f9"/>
+
+      <text x="20" y="78" fill="#475569" font-size="12.5">Have the buyer scan this code to review and sign on their phone  no kiosk hardware needed.</text>
+
+      <!-- QR code (stylized) -->
+      <g transform="translate(76,108)">
+        <rect width="200" height="200" rx="12" fill="#ffffff" stroke="#e2e8f0"/>
+        <!-- inner padding -->
+        <g transform="translate(20,20)" fill="#0a1628">
+          <!-- Corner markers -->
+          <rect width="36" height="36" rx="3"/>
+          <rect x="6" y="6" width="24" height="24" rx="2" fill="#ffffff"/>
+          <rect x="12" y="12" width="12" height="12" rx="1.5" fill="#0a1628"/>
+
+          <rect x="124" width="36" height="36" rx="3"/>
+          <rect x="130" y="6" width="24" height="24" rx="2" fill="#ffffff"/>
+          <rect x="136" y="12" width="12" height="12" rx="1.5" fill="#0a1628"/>
+
+          <rect y="124" width="36" height="36" rx="3"/>
+          <rect x="6" y="130" width="24" height="24" rx="2" fill="#ffffff"/>
+          <rect x="12" y="136" width="12" height="12" rx="1.5" fill="#0a1628"/>
+
+          <!-- Pattern dots -->
+          <g>
+            <rect x="46" y="0" width="6" height="6"/>
+            <rect x="58" y="0" width="6" height="6"/>
+            <rect x="76" y="0" width="6" height="6"/>
+            <rect x="94" y="0" width="6" height="6"/>
+            <rect x="112" y="0" width="6" height="6"/>
+
+            <rect x="46" y="12" width="6" height="6"/>
+            <rect x="64" y="12" width="6" height="6"/>
+            <rect x="82" y="12" width="6" height="6"/>
+            <rect x="100" y="12" width="6" height="6"/>
+            <rect x="112" y="12" width="6" height="6"/>
+
+            <rect x="46" y="24" width="6" height="6"/>
+            <rect x="58" y="24" width="6" height="6"/>
+            <rect x="76" y="24" width="6" height="6"/>
+            <rect x="100" y="24" width="6" height="6"/>
+
+            <rect x="0" y="46" width="6" height="6"/>
+            <rect x="12" y="46" width="6" height="6"/>
+            <rect x="30" y="46" width="6" height="6"/>
+            <rect x="46" y="46" width="6" height="6"/>
+            <rect x="58" y="46" width="6" height="6"/>
+            <rect x="70" y="46" width="6" height="6"/>
+            <rect x="82" y="46" width="6" height="6"/>
+            <rect x="100" y="46" width="6" height="6"/>
+            <rect x="118" y="46" width="6" height="6"/>
+            <rect x="136" y="46" width="6" height="6"/>
+            <rect x="154" y="46" width="6" height="6"/>
+
+            <rect x="6" y="58" width="6" height="6"/>
+            <rect x="24" y="58" width="6" height="6"/>
+            <rect x="40" y="58" width="6" height="6"/>
+            <rect x="52" y="58" width="6" height="6"/>
+            <rect x="64" y="58" width="6" height="6"/>
+            <rect x="76" y="58" width="6" height="6"/>
+            <rect x="88" y="58" width="6" height="6"/>
+            <rect x="106" y="58" width="6" height="6"/>
+            <rect x="124" y="58" width="6" height="6"/>
+            <rect x="142" y="58" width="6" height="6"/>
+
+            <rect x="0" y="70" width="6" height="6"/>
+            <rect x="18" y="70" width="6" height="6"/>
+            <rect x="36" y="70" width="6" height="6"/>
+            <rect x="58" y="70" width="6" height="6"/>
+            <rect x="76" y="70" width="6" height="6"/>
+            <rect x="94" y="70" width="6" height="6"/>
+            <rect x="112" y="70" width="6" height="6"/>
+            <rect x="124" y="70" width="6" height="6"/>
+            <rect x="148" y="70" width="6" height="6"/>
+
+            <rect x="6" y="82" width="6" height="6"/>
+            <rect x="24" y="82" width="6" height="6"/>
+            <rect x="42" y="82" width="6" height="6"/>
+            <rect x="60" y="82" width="6" height="6"/>
+            <rect x="78" y="82" width="6" height="6"/>
+            <rect x="100" y="82" width="6" height="6"/>
+            <rect x="118" y="82" width="6" height="6"/>
+            <rect x="136" y="82" width="6" height="6"/>
+            <rect x="154" y="82" width="6" height="6"/>
+
+            <rect x="0" y="94" width="6" height="6"/>
+            <rect x="18" y="94" width="6" height="6"/>
+            <rect x="36" y="94" width="6" height="6"/>
+            <rect x="48" y="94" width="6" height="6"/>
+            <rect x="64" y="94" width="6" height="6"/>
+            <rect x="82" y="94" width="6" height="6"/>
+            <rect x="100" y="94" width="6" height="6"/>
+            <rect x="118" y="94" width="6" height="6"/>
+            <rect x="130" y="94" width="6" height="6"/>
+            <rect x="148" y="94" width="6" height="6"/>
+
+            <rect x="6" y="106" width="6" height="6"/>
+            <rect x="24" y="106" width="6" height="6"/>
+            <rect x="46" y="106" width="6" height="6"/>
+            <rect x="64" y="106" width="6" height="6"/>
+            <rect x="82" y="106" width="6" height="6"/>
+            <rect x="100" y="106" width="6" height="6"/>
+            <rect x="118" y="106" width="6" height="6"/>
+            <rect x="136" y="106" width="6" height="6"/>
+
+            <rect x="46" y="124" width="6" height="6"/>
+            <rect x="58" y="124" width="6" height="6"/>
+            <rect x="76" y="124" width="6" height="6"/>
+            <rect x="94" y="124" width="6" height="6"/>
+            <rect x="112" y="124" width="6" height="6"/>
+            <rect x="130" y="124" width="6" height="6"/>
+            <rect x="148" y="124" width="6" height="6"/>
+
+            <rect x="46" y="136" width="6" height="6"/>
+            <rect x="64" y="136" width="6" height="6"/>
+            <rect x="82" y="136" width="6" height="6"/>
+            <rect x="106" y="136" width="6" height="6"/>
+            <rect x="124" y="136" width="6" height="6"/>
+            <rect x="142" y="136" width="6" height="6"/>
+
+            <rect x="46" y="148" width="6" height="6"/>
+            <rect x="58" y="148" width="6" height="6"/>
+            <rect x="76" y="148" width="6" height="6"/>
+            <rect x="94" y="148" width="6" height="6"/>
+            <rect x="118" y="148" width="6" height="6"/>
+            <rect x="136" y="148" width="6" height="6"/>
+            <rect x="154" y="148" width="6" height="6"/>
+          </g>
+          <!-- Center logo overlay -->
+          <rect x="68" y="68" width="24" height="24" rx="4" fill="#ffffff"/>
+          <rect x="72" y="72" width="16" height="16" rx="2" fill="#d97706"/>
+          <text x="80" y="85" text-anchor="middle" fill="#ffffff" font-size="9" font-weight="800">B</text>
+        </g>
+      </g>
+
+      <!-- Status -->
+      <g transform="translate(20,328)">
+        <text x="0" y="0" fill="#0f172a" font-size="12.5" font-weight="600">Waiting for buyer to scan&#8230;</text>
+        <g transform="translate(0,12)">
+          <rect width="312" height="6" rx="3" fill="#f1f5f9"/>
+          <rect width="120" height="6" rx="3" fill="#d97706"/>
+        </g>
+        <text x="0" y="36" fill="#64748b" font-size="11">Link expires in 14:38 · Code: <tspan fill="#0f172a" font-weight="600" font-family="JetBrains Mono, monospace">7K-WP4Z</tspan></text>
+      </g>
+
+      <line x1="0" y1="384" x2="352" y2="384" stroke="#f1f5f9"/>
+
+      <g transform="translate(20,400)">
+        <text x="0" y="0" fill="#475569" font-size="11" font-weight="600">SIGNATURE METHOD</text>
+        <g transform="translate(0,14)">
+          <rect width="100" height="32" rx="6" fill="#0a1628"/>
+          <text x="50" y="20" text-anchor="middle" fill="#ffffff" font-size="11.5" font-weight="600">QR mobile</text>
+        </g>
+        <g transform="translate(108,14)">
+          <rect width="100" height="32" rx="6" fill="#ffffff" stroke="#cbd5e1"/>
+          <text x="50" y="20" text-anchor="middle" fill="#475569" font-size="11.5">Topaz pad</text>
+        </g>
+        <g transform="translate(216,14)">
+          <rect width="96" height="32" rx="6" fill="#ffffff" stroke="#cbd5e1"/>
+          <text x="48" y="20" text-anchor="middle" fill="#475569" font-size="11.5">Touchscreen</text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

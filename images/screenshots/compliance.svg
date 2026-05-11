@@ -1,0 +1,273 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="BoundPro compliance center showing ATF Form 3310.4 alert, FFL expiry warning, NICS delay countdown, and audit log" fill="none" font-family="Inter, system-ui, sans-serif">
+  <title>BoundPro compliance center</title>
+  <defs>
+    <filter id="cardShadow5" x="-2%" y="-5%" width="104%" height="115%">
+      <feDropShadow dx="0" dy="1" stdDeviation="2" flood-color="#0f172a" flood-opacity="0.06"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="800" fill="#f8fafc"/>
+
+  <!-- Sidebar -->
+  <rect x="0" y="0" width="216" height="800" fill="#0f1d33"/>
+  <g transform="translate(20,20)">
+    <rect width="22" height="24" rx="3" fill="#18283f"/>
+    <rect width="3" height="24" fill="#d97706"/>
+    <rect x="7" y="6" width="11" height="1.4" rx="0.7" fill="#94a3b8"/>
+    <rect x="7" y="10" width="8" height="1.4" rx="0.7" fill="#94a3b8"/>
+    <rect x="7" y="14" width="11" height="1.4" rx="0.7" fill="#94a3b8"/>
+    <text x="32" y="18" fill="#ffffff" font-size="15" font-weight="700">BoundPro</text>
+  </g>
+  <g transform="translate(16,64)">
+    <rect width="184" height="44" rx="8" fill="#ffffff" fill-opacity="0.06"/>
+    <rect x="10" y="10" width="24" height="24" rx="6" fill="#d97706"/>
+    <text x="22" y="26" text-anchor="middle" fill="#ffffff" font-size="10" font-weight="700">RA</text>
+    <text x="40" y="20" fill="#ffffff" font-size="12" font-weight="600">Ridgeline Arms</text>
+    <text x="40" y="34" fill="#94a3b8" font-size="10">3 FFLs · SOT Class III</text>
+  </g>
+  <text x="24" y="132" fill="#64748b" font-size="10" font-weight="700" letter-spacing="0.08em">WORKSPACE</text>
+  <g font-size="13">
+    <g transform="translate(8,148)">
+      <path d="M22 22 l8 -7 8 7 v8 a1 1 0 0 1 -1 1 h-14 a1 1 0 0 1 -1 -1 z" stroke="#94a3b8" stroke-width="1.5" stroke-linejoin="round"/>
+      <text x="46" y="22" fill="#cbd5e1">Dashboard</text>
+    </g>
+    <g transform="translate(8,186)">
+      <path d="M22 16 h12 a1 1 0 0 1 1 1 v12 a1 1 0 0 1 -1 1 h-12 a1 1 0 0 1 -1 -1 v-12 a1 1 0 0 1 1 -1 z M25 20 h7 M25 23 h7 M25 26 h5" stroke="#94a3b8" stroke-width="1.4" stroke-linecap="round"/>
+      <text x="46" y="22" fill="#cbd5e1">A&amp;D Ledger</text>
+    </g>
+    <g transform="translate(8,220)">
+      <path d="M22 16 h10 l3 3 v11 a1 1 0 0 1 -1 1 h-12 a1 1 0 0 1 -1 -1 v-13 a1 1 0 0 1 1 -1 z M25 22 h7 M25 25 h7 M25 28 h5" stroke="#94a3b8" stroke-width="1.4" stroke-linecap="round"/>
+      <text x="46" y="22" fill="#cbd5e1">Form 4473s</text>
+    </g>
+    <g transform="translate(8,254)">
+      <path d="M22 19 h13 m-3 -3 l3 3 -3 3 M35 27 h-13 m3 -3 l-3 3 3 3" stroke="#94a3b8" stroke-width="1.4" stroke-linecap="round"/>
+      <text x="46" y="22" fill="#cbd5e1">Transfers</text>
+    </g>
+    <g transform="translate(8,288)">
+      <path d="M28 14 l8 4 v6 c0 4 -3 7 -8 8 -5 -1 -8 -4 -8 -8 v-6 z" stroke="#94a3b8" stroke-width="1.4" stroke-linejoin="round"/>
+      <text x="46" y="22" fill="#cbd5e1">NFA Registry</text>
+    </g>
+    <g transform="translate(8,322)">
+      <path d="M22 22 a6 6 0 1 0 12 0 a6 6 0 1 0 -12 0 M28 18 v8 M25 21 h6" stroke="#94a3b8" stroke-width="1.4"/>
+      <text x="46" y="22" fill="#cbd5e1">Pawn</text>
+    </g>
+    <!-- Compliance ACTIVE -->
+    <g transform="translate(8,356)">
+      <rect width="200" height="34" rx="8" fill="#ffffff" fill-opacity="0.09"/>
+      <rect width="3" height="34" rx="1.5" fill="#d97706"/>
+      <path d="M28 14 l8 3 v7 c0 5 -4 8 -8 9 -4 -1 -8 -4 -8 -9 v-7 z M25 22 l3 3 5 -6" stroke="#ffffff" stroke-width="1.5" stroke-linejoin="round"/>
+      <text x="46" y="22" fill="#ffffff" font-weight="600">Compliance</text>
+      <circle cx="180" cy="20" r="4" fill="#e11d48"/>
+      <text x="180" y="23" fill="#ffffff" font-size="9" font-weight="700" text-anchor="middle">3</text>
+    </g>
+    <g transform="translate(8,390)">
+      <path d="M22 28 v-6 M27 28 v-10 M32 28 v-7 M37 28 v-12" stroke="#94a3b8" stroke-width="1.6" stroke-linecap="round"/>
+      <text x="46" y="22" fill="#cbd5e1">Reports</text>
+    </g>
+    <g transform="translate(8,424)">
+      <path d="M22 18 h14 M22 22 h14 M22 26 h10" stroke="#94a3b8" stroke-width="1.4" stroke-linecap="round"/>
+      <text x="46" y="22" fill="#cbd5e1">Audit Log</text>
+    </g>
+  </g>
+
+  <!-- Top bar -->
+  <rect x="216" y="0" width="984" height="56" fill="#ffffff"/>
+  <line x1="216" y1="56" x2="1200" y2="56" stroke="#e2e8f0"/>
+  <text x="248" y="26" fill="#0f172a" font-size="14" font-weight="600">Compliance center</text>
+  <text x="248" y="42" fill="#64748b" font-size="11.5">3 open items · last ATF inspection 09/14/2025 · clean</text>
+
+  <g transform="translate(900,14)">
+    <rect width="118" height="32" rx="8" fill="#ffffff" stroke="#cbd5e1"/>
+    <path d="M14 18 h6 m-3 -3 v6 M14 14 v8" stroke="#475569" stroke-width="1.4"/>
+    <text x="34" y="20" fill="#0f172a" font-size="12" font-weight="500">Audit mode</text>
+    <path d="M104 18 l4 4 4 -4" stroke="#475569" stroke-width="1.4" fill="none"/>
+  </g>
+  <g transform="translate(1024,14)">
+    <rect width="118" height="32" rx="8" fill="#0a1628"/>
+    <path d="M16 16 h8 v6 h-8 z M16 16 v-2 h8 v2 M14 24 h12" stroke="#ffffff" stroke-width="1.4" fill="none"/>
+    <text x="34" y="20" fill="#ffffff" font-size="12" font-weight="600">Compliance pack</text>
+  </g>
+
+  <!-- Main -->
+  <g transform="translate(248,80)">
+
+    <text x="0" y="22" fill="#0f172a" font-size="22" font-weight="700" letter-spacing="-0.02em">Compliance center</text>
+    <text x="0" y="44" fill="#64748b" font-size="13">Real-time detections, deadlines, and the immutable audit trail.</text>
+
+    <!-- Big alert: 3310.4 -->
+    <g transform="translate(0,68)">
+      <rect width="912" height="80" rx="12" fill="#fff1f2" stroke="#fecaca" stroke-width="1.5"/>
+      <g transform="translate(20,22)">
+        <rect width="36" height="36" rx="10" fill="#fee2e2"/>
+        <path d="M18 10 l8 14 -16 0 z M18 17 v3 M18 22 v0.1" transform="translate(0,2)" stroke="#be123c" stroke-width="1.6" fill="none" stroke-linecap="round"/>
+      </g>
+      <text x="68" y="38" fill="#7f1d1d" font-size="14" font-weight="700">ATF Form 3310.4 due  multiple-handgun sale</text>
+      <text x="68" y="58" fill="#9f1239" font-size="12.5">2 handguns sold to <tspan font-weight="600">Marcus J. Reyes</tspan> within 5 business days. Submit Form 3310.4 by <tspan font-weight="600">Friday, March 6 EOD</tspan> (16h 22m remaining).</text>
+
+      <g transform="translate(720,22)">
+        <rect width="84" height="36" rx="8" fill="#ffffff" stroke="#fca5a5"/>
+        <text x="42" y="22.5" text-anchor="middle" fill="#9f1239" font-size="12" font-weight="600">View detail</text>
+      </g>
+      <g transform="translate(810,22)">
+        <rect width="86" height="36" rx="8" fill="#be123c"/>
+        <path d="M14 16 h8 v6 h-8 z M14 16 v-2 h8 v2" stroke="#ffffff" stroke-width="1.4" fill="none"/>
+        <text x="48" y="22.5" text-anchor="middle" fill="#ffffff" font-size="12" font-weight="600">Generate</text>
+      </g>
+    </g>
+
+    <!-- Three alert cards -->
+    <g transform="translate(0,168)">
+
+      <!-- Card 1: 3310.12 -->
+      <g>
+        <rect width="296" height="156" rx="10" fill="#ffffff" stroke="#e2e8f0" filter="url(#cardShadow5)"/>
+        <g transform="translate(20,20)">
+          <rect width="32" height="32" rx="8" fill="#fffbeb"/>
+          <path d="M16 8 v10 M16 22 v0.1" transform="translate(0,2)" stroke="#b45309" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+        </g>
+        <text x="62" y="32" fill="#0f172a" font-size="13" font-weight="600">Form 3310.12 detected</text>
+        <text x="62" y="48" fill="#94a3b8" font-size="10.5">Border-state long-gun sale</text>
+
+        <text x="20" y="82" fill="#475569" font-size="11.5" line-height="1.5">2 long guns to a single non-resident in AZ within 5 days. Border-state report required.</text>
+        <text x="20" y="100" fill="#475569" font-size="11.5"></text>
+
+        <line x1="20" y1="116" x2="276" y2="116" stroke="#f1f5f9"/>
+
+        <text x="20" y="138" fill="#94a3b8" font-size="11">Window ends in <tspan fill="#0f172a" font-weight="600" font-family="JetBrains Mono, monospace">2 days</tspan></text>
+        <text x="276" y="138" text-anchor="end" fill="#0f172a" font-size="11.5" font-weight="600">Review ’</text>
+      </g>
+
+      <!-- Card 2: NICS countdown -->
+      <g transform="translate(308,0)">
+        <rect width="296" height="156" rx="10" fill="#ffffff" stroke="#e2e8f0" filter="url(#cardShadow5)"/>
+        <g transform="translate(20,20)">
+          <rect width="32" height="32" rx="8" fill="#fffbeb"/>
+          <path d="M16 8 a8 8 0 1 0 0.01 0 M16 12 v6 l3 2" transform="translate(0,2)" stroke="#b45309" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+        </g>
+        <text x="62" y="32" fill="#0f172a" font-size="13" font-weight="600">NICS delay  proceed deadline</text>
+        <text x="62" y="48" fill="#94a3b8" font-size="10.5">D. Hartley · 4473 #BPSE-00421</text>
+
+        <g transform="translate(20,72)">
+          <text x="0" y="0" fill="#475569" font-size="11">Time remaining</text>
+          <text x="0" y="28" fill="#0f172a" font-size="22" font-weight="700" font-family="JetBrains Mono, monospace" letter-spacing="-0.02em">2d 14h 08m</text>
+        </g>
+
+        <line x1="20" y1="116" x2="276" y2="116" stroke="#f1f5f9"/>
+        <text x="20" y="138" fill="#94a3b8" font-size="11">Submitted <tspan fill="#0f172a" font-weight="600">Mar 02</tspan></text>
+        <text x="276" y="138" text-anchor="end" fill="#0f172a" font-size="11.5" font-weight="600">Open form ’</text>
+      </g>
+
+      <!-- Card 3: FFL expiry -->
+      <g transform="translate(616,0)">
+        <rect width="296" height="156" rx="10" fill="#ffffff" stroke="#e2e8f0" filter="url(#cardShadow5)"/>
+        <g transform="translate(20,20)">
+          <rect width="32" height="32" rx="8" fill="#fffbeb"/>
+          <path d="M16 8 v10 M16 22 v0.1" transform="translate(0,2)" stroke="#b45309" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+        </g>
+        <text x="62" y="32" fill="#0f172a" font-size="13" font-weight="600">FFL expiring</text>
+        <text x="62" y="48" fill="#94a3b8" font-size="10.5">Renewal application reminder</text>
+
+        <text x="20" y="78" fill="#475569" font-size="11.5">FFL <tspan fill="#0f172a" font-weight="600" font-family="JetBrains Mono, monospace">5-12-345-67-8X-90123</tspan></text>
+        <text x="20" y="98" fill="#475569" font-size="11.5">expires <tspan fill="#0f172a" font-weight="600" font-family="JetBrains Mono, monospace">04/22/2026</tspan> (47 days)</text>
+
+        <line x1="20" y1="116" x2="276" y2="116" stroke="#f1f5f9"/>
+        <text x="20" y="138" fill="#94a3b8" font-size="11">FFL Type <tspan fill="#0f172a" font-weight="600">07</tspan></text>
+        <text x="276" y="138" text-anchor="end" fill="#0f172a" font-size="11.5" font-weight="600">Renew ’</text>
+      </g>
+    </g>
+
+    <!-- Audit log card -->
+    <g transform="translate(0,344)">
+      <rect width="912" height="294" rx="10" fill="#ffffff" stroke="#e2e8f0" filter="url(#cardShadow5)"/>
+
+      <text x="20" y="32" fill="#0f172a" font-size="14" font-weight="600">Audit log</text>
+      <text x="20" y="50" fill="#64748b" font-size="11.5">Immutable per-record action history · 6 most recent events</text>
+
+      <g transform="translate(720,18)">
+        <rect width="80" height="22" rx="6" fill="#ecfdf5"/>
+        <path d="M14 12 l3 3 5 -6" stroke="#047857" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+        <text x="44" y="15.5" text-anchor="middle" fill="#047857" font-size="10.5" font-weight="600">Hash chained</text>
+      </g>
+      <g transform="translate(806,18)">
+        <rect width="86" height="22" rx="6" fill="#f1f5f9"/>
+        <text x="43" y="15.5" text-anchor="middle" fill="#475569" font-size="10.5" font-weight="600">Export CSV</text>
+      </g>
+
+      <line x1="0" y1="68" x2="912" y2="68" stroke="#f1f5f9"/>
+
+      <!-- Header -->
+      <g font-size="9.5" fill="#64748b" font-weight="700" letter-spacing="0.06em">
+        <text x="20" y="86">TIMESTAMP</text>
+        <text x="160" y="86">ACTOR</text>
+        <text x="296" y="86">ACTION</text>
+        <text x="500" y="86">RECORD</text>
+        <text x="780" y="86">SHA-256</text>
+      </g>
+      <line x1="0" y1="96" x2="912" y2="96" stroke="#f1f5f9"/>
+
+      <!-- Row 1 -->
+      <g transform="translate(0,96)" font-size="11.5">
+        <text x="20" y="22" fill="#475569" font-family="JetBrains Mono, monospace">03/04 14:22:08</text>
+        <text x="160" y="22" fill="#0f172a">Alex Thompson</text>
+        <g transform="translate(296,8)">
+          <rect width="56" height="20" rx="5" fill="#fffbeb"/>
+          <text x="28" y="14" text-anchor="middle" fill="#b45309" font-size="10.5" font-weight="600">UPDATE</text>
+        </g>
+        <text x="500" y="22" fill="#0f172a">Firearm BPSE423 · status ’ in-stock</text>
+        <text x="780" y="22" fill="#94a3b8" font-family="JetBrains Mono, monospace">a4b2&#8230;f071</text>
+      </g>
+      <line x1="0" y1="138" x2="912" y2="138" stroke="#f1f5f9"/>
+
+      <!-- Row 2 -->
+      <g transform="translate(0,138)" font-size="11.5">
+        <text x="20" y="22" fill="#475569" font-family="JetBrains Mono, monospace">03/04 13:58:41</text>
+        <text x="160" y="22" fill="#0f172a">System</text>
+        <g transform="translate(296,8)">
+          <rect width="56" height="20" rx="5" fill="#ecfdf5"/>
+          <text x="28" y="14" text-anchor="middle" fill="#047857" font-size="10.5" font-weight="600">DETECT</text>
+        </g>
+        <text x="500" y="22" fill="#0f172a">3310.4 alert opened · buyer M. Reyes</text>
+        <text x="780" y="22" fill="#94a3b8" font-family="JetBrains Mono, monospace">7c91&#8230;2e8d</text>
+      </g>
+      <line x1="0" y1="180" x2="912" y2="180" stroke="#f1f5f9"/>
+
+      <!-- Row 3 -->
+      <g transform="translate(0,180)" font-size="11.5">
+        <text x="20" y="22" fill="#475569" font-family="JetBrains Mono, monospace">03/04 13:42:19</text>
+        <text x="160" y="22" fill="#0f172a">Alex Thompson</text>
+        <g transform="translate(296,8)">
+          <rect width="56" height="20" rx="5" fill="#dbeafe"/>
+          <text x="28" y="14" text-anchor="middle" fill="#1e40af" font-size="10.5" font-weight="600">CREATE</text>
+        </g>
+        <text x="500" y="22" fill="#0f172a">Form 4473 #BPSE-00424 started</text>
+        <text x="780" y="22" fill="#94a3b8" font-family="JetBrains Mono, monospace">3b08&#8230;91a4</text>
+      </g>
+      <line x1="0" y1="222" x2="912" y2="222" stroke="#f1f5f9"/>
+
+      <!-- Row 4 -->
+      <g transform="translate(0,222)" font-size="11.5">
+        <text x="20" y="22" fill="#475569" font-family="JetBrains Mono, monospace">03/04 11:15:02</text>
+        <text x="160" y="22" fill="#0f172a">Sarah Lin</text>
+        <g transform="translate(296,8)">
+          <rect width="56" height="20" rx="5" fill="#dbeafe"/>
+          <text x="28" y="14" text-anchor="middle" fill="#1e40af" font-size="10.5" font-weight="600">CREATE</text>
+        </g>
+        <text x="500" y="22" fill="#0f172a">Acquisition · Glock 19 Gen5 · BPSE423</text>
+        <text x="780" y="22" fill="#94a3b8" font-family="JetBrains Mono, monospace">1f4d&#8230;8c63</text>
+      </g>
+      <line x1="0" y1="264" x2="912" y2="264" stroke="#f1f5f9"/>
+
+      <!-- Row 5 -->
+      <g transform="translate(0,264)" font-size="11.5">
+        <text x="20" y="22" fill="#475569" font-family="JetBrains Mono, monospace">03/04 09:08:33</text>
+        <text x="160" y="22" fill="#0f172a">System</text>
+        <g transform="translate(296,8)">
+          <rect width="56" height="20" rx="5" fill="#ecfdf5"/>
+          <text x="28" y="14" text-anchor="middle" fill="#047857" font-size="10.5" font-weight="600">CHECK</text>
+        </g>
+        <text x="500" y="22" fill="#0f172a">NCIC stolen-gun verify · 12 SNs · 0 hits</text>
+        <text x="780" y="22" fill="#94a3b8" font-family="JetBrains Mono, monospace">e2c0&#8230;44b9</text>
+      </g>
+    </g>
+  </g>
+</svg>
