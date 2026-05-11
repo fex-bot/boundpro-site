@@ -11,7 +11,7 @@ marketing-site/
 ├── index.html          ← Homepage
 ├── features.html       ← Deep-dive on every feature
 ├── pricing.html        ← 3 tiers + feature matrix + FAQ
-├── comparison.html     ← Cited comparison vs FastBound, Orchid, Easybound, AIM
+├── comparison.html     ← Comparison vs FastBound, Orchid, Easybound, AIM
 ├── about.html          ← Mission + compliance commitments
 ├── sitemap.xml
 ├── robots.txt
@@ -84,7 +84,7 @@ The site is launch-ready visually but contains a few placeholders the user shoul
 - [ ] **Email addresses** — `hello@boundpro.app`, `sales@boundpro.app` are placeholders.
 - [ ] **Stripe checkout** — pricing page CTAs deep-link with `?plan=starter|pro` query strings. Wire those into your Stripe checkout flow.
 - [ ] **Spanish 4473 footnote (★)** — the comparison page honestly notes Spanish 4473 isn't shipped yet; remove the footnote when it ships.
-- [ ] **Webhooks footnote on FastBound 3310.12** — see footnote 7 on `/comparison.html`. The claim is implied from FastBound's "unlimited multiple sale reports" but we couldn't find an explicit "automatic detection" page; verify directly with FastBound or update the cell.
+- [ ] **FastBound 3310.12 row (comparison)** — the table marks implied capability from FastBound's "unlimited multiple sale reports" language; verify directly with FastBound or update the cell if needed.
 - [ ] **OG / Twitter card preview image** — the comparison/about/pricing/features pages use `dashboard.svg` as the OG image. Twitter and LinkedIn don't render SVG OG images well — you'll want to export each SVG to a 1200×630 PNG before launch and update `og:image` tags. Suggested filenames: `og-home.png`, `og-features.png`, etc., in `images/og/`.
 - [ ] **Schema.org JSON-LD** — the homepage and pricing page include Organization + SoftwareApplication + Product schema. Update `url`, `logo`, `sameAs` (social profiles) once you have them.
 - [ ] **Analytics** — no analytics included. Add Plausible, Fathom, or GA4 by dropping a single `<script>` tag before `</head>` in each page.
@@ -95,7 +95,7 @@ The site is launch-ready visually but contains a few placeholders the user shoul
 - **Secondary keywords**: "FFL software", "bound book software", "ATF Form 4473 software", "electronic A and D book", "FFL compliance software", "NFA tracking" — woven into headings and body throughout.
 - **Heading hierarchy**: One `<h1>` per page, proper `<h2>` / `<h3>` nesting, semantic `<section>` / `<article>` / `<nav>` / `<aside>` throughout.
 - **Alt text**: Every SVG screenshot has descriptive alt text (e.g. "BoundPro dashboard showing inventory totals, recent A&D ledger entries, NICS pending forms, and FFL compliance status"). The logo uses descriptive `aria-label`.
-- **Internal linking**: Each homepage feature card deep-links to the relevant section of `/features.html` (e.g. `/features.html#nfa`).
+- **Internal linking**: Each homepage feature card deep-links to a section on `/features` (e.g. `/features#nfa`; source file is `features.html`).
 - **Performance**: ~22 KB of CSS (no framework), ~0.5 KB of JS (mobile nav only), inline-able SVG images, lazy-loading on below-fold images. Should comfortably hit Lighthouse 95+ on every page.
 - **Accessibility**: AA-compliant color contrast on all text, focus-visible states preserved, proper landmark structure, `prefers-reduced-motion` is respected (no JS animations).
 

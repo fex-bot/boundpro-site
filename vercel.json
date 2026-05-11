@@ -34,6 +34,16 @@
   ],
   "redirects": [
     { "source": "/index", "destination": "/", "permanent": true },
-    { "source": "/index.html", "destination": "/", "permanent": true }
+    { "source": "/index.html", "destination": "/", "permanent": true },
+    { "source": "/features.html", "destination": "/features", "permanent": true },
+    { "source": "/pricing.html", "destination": "/pricing", "permanent": true },
+    { "source": "/comparison.html", "destination": "/comparison", "permanent": true },
+    { "source": "/about.html", "destination": "/about", "permanent": true },
+    { "source": "/signup", "destination": "https://app.boundpro.app/signup", "permanent": false },
+    { "source": "/signup/:path*", "destination": "https://app.boundpro.app/signup/:path*", "permanent": false },
+    { "source": "/login", "destination": "https://app.boundpro.app/login", "permanent": false },
+    { "source": "/login/:path*", "destination": "https://app.boundpro.app/login/:path*", "permanent": false },
+    { "source": "/sign-up", "destination": "https://app.boundpro.app/signup", "permanent": false },
+    { "source": "/sign-in", "destination": "https://app.boundpro.app/login", "permanent": false }
   ]
 }
